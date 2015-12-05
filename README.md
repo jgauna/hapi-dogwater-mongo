@@ -31,4 +31,4 @@ http://localhost:1337
 
 ## Thanks @moklik
 
-For first example https://github.com/wbkd/hapi-rest-starter-simple
+For the first example https://github.com/wbkd/hapi-rest-starter-simple
