@@ -1,0 +1,24 @@
+{
+  "name": "hapi-dogwater-mongo",
+  "version": "1.0.0",
+  "description": "A simple Hapi project that offers you REST API based on Dogwater and Bedwetter.",
+  "main": "index.js",
+  "repository" : "https://github.com/jgauna/hapi-dogwater-mongo",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "Juan Gauna",
+  "contributors": [
+    "http://webkid.io",
+    "http://github.com/moklick"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bedwetter": "^1.8.2",
+    "blipp": "^2.2.1",
+    "dogwater": "^0.4.7",
+    "hapi": "^8.8.0",
+    "sails-mongo": "^0.11.5",
+    "shortid": "^2.2.2"
+  }
+}
